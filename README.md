@@ -1,4 +1,4 @@
-### Rock, Paper, Scissors game using 21 app machine-payable API
+# Rock, Paper, Scissors game using 21 app machine-payable API
 
 This is a simple implementatin of a 'Rock, Paper, Scissors' game in Python, using 21 app (http://21.co) machine-payable API.
 
@@ -12,7 +12,7 @@ This will install the command line interave called '21'. Make sure you're logged
 
 Check out your balance with:
 
-'21 status --detail`
+`21 status --detail`
 
 This game requires a small amount of bitcoin in your wallet.
 
